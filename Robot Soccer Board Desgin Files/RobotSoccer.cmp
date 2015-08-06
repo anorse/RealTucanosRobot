@@ -1,0 +1,220 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/1/2015 4:08:50 PM
+
+BeginCmp
+TimeStamp = /54E44090;
+Reference = 5v1;
+ValeurCmp = EXTERNAL_PAD;
+IdModule  = IO_Foot_Dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4432F;
+Reference = 5v2;
+ValeurCmp = EXTERNAL_PAD;
+IdModule  = IO_Foot_Dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E22A03;
+Reference = AND1;
+ValeurCmp = 7408;
+IdModule  = DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E44739;
+Reference = B1;
+ValeurCmp = PWR;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E44748;
+Reference = B2;
+ValeurCmp = PWR;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E44757;
+Reference = B3;
+ValeurCmp = PWR;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E44766;
+Reference = B4;
+ValeurCmp = PWR;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E271AF;
+Reference = I/O1;
+ValeurCmp = PAD;
+IdModule  = IO_Foot_Dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E438A0;
+Reference = I/O2;
+ValeurCmp = EXTERNAL_PAD;
+IdModule  = IO_Foot_Dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E438B9;
+Reference = I/O3;
+ValeurCmp = EXTERNAL_PAD;
+IdModule  = IO_Foot_Dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E231F5;
+Reference = LED1;
+ValeurCmp = BUCK_PWR;
+IdModule  = LED5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E225ED;
+Reference = LED2;
+ValeurCmp = ODROID_PWR;
+IdModule  = LED5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E22268;
+Reference = LLC1;
+ValeurCmp = LOGIC_LEVEL_CONVERTER;
+IdModule  = Logic_lvl_SparkFun;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E165FD;
+Reference = M1;
+ValeurCmp = M1;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1660C;
+Reference = M2;
+ValeurCmp = M2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1661B;
+Reference = M3;
+ValeurCmp = M3;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E2229E;
+Reference = ODROID1;
+ValeurCmp = ODROID;
+IdModule  = ODROID;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E6A4C5;
+Reference = On/Off1;
+ValeurCmp = SPST;
+IdModule  = Power_Switch_Custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E22ACC;
+Reference = PB1;
+ValeurCmp = PWR_BOARD;
+IdModule  = PowerBoard;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF654F;
+Reference = Q1;
+ValeurCmp = IRF740;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF655E;
+Reference = Q2;
+ValeurCmp = IRF740;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E23440;
+Reference = R1;
+ValeurCmp = 150Ohm;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E21511;
+Reference = R2;
+ValeurCmp = 150Ohm;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EE9FD8;
+Reference = R3;
+ValeurCmp = 470 Ohm;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EE9217;
+Reference = R4;
+ValeurCmp = 470 Ohm;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E247F9;
+Reference = RC1;
+ValeurCmp = ROBOCLAW;
+IdModule  = ROBOCLAW_V2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E24808;
+Reference = RC2;
+ValeurCmp = ROBOCLAW;
+IdModule  = ROBOCLAW_V2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1697F;
+Reference = Regulator1;
+ValeurCmp = V_REG_78XXTO-92;
+IdModule  = Custom_LM7812;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E22505;
+Reference = Regulator2;
+ValeurCmp = V_REG_78XXTO-92;
+IdModule  = Custom_LM7812;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EE9FDE;
+Reference = SW1;
+ValeurCmp = RC2 Reset;
+IdModule  = SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EE91E4;
+Reference = SW2;
+ValeurCmp = RC1 Reset;
+IdModule  = SW_PUSH-12mm;
+EndCmp
+
+EndListe

@@ -1,0 +1,9 @@
+All files are in the gerber format.
+
+*.drl is the drill file
+*.gbl is the Back Copper (also denoted by -B_Cu)
+*.gtl is the Front Copper (also denoted by -F_Cu)
+*.gbr is the edged Cuts (also denoted by -Edge_Cuts)
+
+Both the Back and Front copper should also have the edge cuts on them.
+The board is set to be an 8' by 8" double clad copper board.
